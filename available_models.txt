@@ -1,0 +1,37 @@
+ model                 input size         
+.................................................
+'squeezenet1_0'          224             
+'vgg16'                  224 
+'vgg16_bn'               224  
+'vgg19'                  224                       
+'vgg19_bn'               224
+'resnet18'               224
+'resnet50'               224
+'resnet101'              224
+'resnet152'              224
+'chexnet'                224
+'densenet121'            224
+'densenet161'            224
+'densenet201'            224
+'shufflenet'             224
+'googlenet'              224
+'mobilenetv2'            224
+'nasnetmobile'           224
+'alexnet'                224
+'darknet53'              256
+'inception_v3'           299
+'inceptionresnetv2'      299
+'xception'               299
+'nasnetalarge'           331
+'pnasnet5large'          331
+'efficientnet_b0'        224
+'efficientnet_b1'        224
+'efficientnet_b2'        224
+'efficientnet_b3'        224
+'efficientnet_b4'        224
+'efficientnet_b5'        224
+'efficientnet_b6'        224
+'efficientnet_b7'        224
+'mobilenet_v3_small'     224
+'mobilenet_v3_large'     224
+
