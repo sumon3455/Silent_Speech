@@ -179,14 +179,6 @@ Ensure you update this file as needed to match your environment.
 Contributions are welcome! Please submit a pull request or open an issue to suggest improvements or report bugs.
 
 
-# Deep Learning for Bangla Silent Speech Recognition
-
-This repository contains the code and models for the paper:
-
-**Deep Learning for Bangla Silent Speech Recognition: A Neck-Mounted Device Approach**  
-Md. Shaheenur Islam Sumon, Muttakee Bin Ali, Syed Mahfuzur Rahman, M. Murugappan, Muhammad E. H. Chowdhury  
-*(Under review at The Visual Computer, Springer)*  
-
 ## 📜 Citation  
 
 If you find this work or code helpful in your research, please cite:  
