@@ -190,6 +190,7 @@ If you find this work or code helpful in your research, please cite:
   author={Md. Shaheenur Islam Sumon and Muttakee Bin Ali and Syed Mahfuzur Rahman and M. Murugappan and Muhammad E. H. Chowdhury},
   journal={The Visual Computer},
   year={2024},
+  publisher={Springer},
   note={Under review}
 }
 
