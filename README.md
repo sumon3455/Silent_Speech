@@ -188,7 +188,7 @@ If you find this work or code helpful in your research, please cite:
 @article{sumon2024deep,  
   title={Deep Learning for Bangla Silent Speech Recognition: A Neck-Mounted Device Approach},  
   author={Md. Shaheenur Islam Sumon and Muttakee Bin Ali and Syed Mahfuzur Rahman and M. Murugappan and Muhammad E. H. Chowdhury},  
-  year={2024},  
+  year={2025},  
   note={Under review}  
 }
 
