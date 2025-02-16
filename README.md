@@ -185,13 +185,10 @@ If you find this work or code helpful in your research, please cite:
 
 ### **BibTeX Format**  
 ```bibtex
-@article{sumon2024deep,
-  title={Deep Learning for Bangla Silent Speech Recognition: A Neck-Mounted Device Approach},
-  author={Md. Shaheenur Islam Sumon and Muttakee Bin Ali and Syed Mahfuzur Rahman and M. Murugappan and Muhammad E. H. Chowdhury},
-  journal={The Visual Computer},
-  year={2024},
-  publisher={Springer},
-  note={Under review}
+@article{sumon2024deep,  
+  title={Deep Learning for Bangla Silent Speech Recognition: A Neck-Mounted Device Approach},  
+  author={Md. Shaheenur Islam Sumon and Muttakee Bin Ali and Syed Mahfuzur Rahman and M. Murugappan and Muhammad E. H. Chowdhury},  
+  year={2024},  
+  note={Under review}  
 }
-
 
